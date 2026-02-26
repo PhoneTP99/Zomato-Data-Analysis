@@ -1,0 +1,14 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+
+
+# Data files (if they are too big for GitHub)
+dataset/raw/
+*.csv
+
+
+# System files
+.DS_Storezomato.csv

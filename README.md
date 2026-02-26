@@ -19,15 +19,15 @@ interactive dashboard.
 
 ------------------------------------------------------------------------
 
-## 📉 Impact Metrics
+### 📉 Impact Metrics
 
-  Metric              Before     After
-  ------------------- ---------- -----------
-  Dataset Size        547 MB     1.2 MB
-  Reduction           ---        **99.7%**
-  Rows                \~50,000   Optimized
-  Performance         Slow       BI-Ready
-  GitHub Compatible   ❌         ✅
+| Metric | Before | After |
+| :--- | :--- | :--- |
+| **Dataset Size** | 547 MB | 1.2 MB |
+| **Reduction** | --- | **99.7%** |
+| **Rows** | ~50,000 | Optimized |
+| **Performance** | Slow / Laggy | BI-Ready |s
+| **GitHub Compatible**| ❌ No | ✅ Yes |
 
 ------------------------------------------------------------------------
 

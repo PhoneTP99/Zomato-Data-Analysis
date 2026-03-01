@@ -35,20 +35,20 @@ interactive dashboard.
 
 ### 🔎 Challenge
 
--Raw dataset exceeded GitHub limits
--Heavy text columns inflated memory usage
--Duplicate records
--Missing values
--Inconsistent formatting
+- Raw dataset exceeded GitHub limits
+- Heavy text columns inflated memory usage
+- Duplicate records
+- Missing values
+- Inconsistent formatting
 
 ### ⚙️ Actions Taken
 
--Removed duplicates
--Cleaned and standardized null values
--Optimized data types
--Dropped unnecessary columns
--Reduced memory footprint dramatically
--Structured data for BI performance
+- Removed duplicates
+- Cleaned and standardized null values
+- Optimized data types
+- Dropped unnecessary columns
+- Reduced memory footprint dramatically
+- Structured data for BI performance
 
 ### 🎯 Result
 
@@ -59,10 +59,10 @@ Business decision-making - Restaurant market strategy insights
 
 ## 📈 Business Questions Answered
 
--What cuisines perform best in Bangalore?
--Which locations have the highest rating density?
--How do pricing categories affect ratings?
--What factors correlate with restaurant success?
+- What cuisines perform best in Bangalore?
+- Which locations have the highest rating density?
+- How do pricing categories affect ratings?
+- What factors correlate with restaurant success?
 
 ------------------------------------------------------------------------
 

@@ -21,13 +21,13 @@ interactive dashboard.
 
 ### 📉 Impact Metrics
 
-| Metric | Before | After |
-| :--- | :--- | :--- |
-| **Dataset Size** | 547 MB | 1.2 MB |
-| **Reduction** | --- | **99.7%** |
-| **Rows** | ~50,000 | Optimized |
-| **Performance** | Slow / Laggy | BI-Ready |s
-| **GitHub Compatible**| ❌ No | ✅ Yes |
+| Metric               | Before        | After      |
+| :------------------- | :------------ | :--------- |
+| **Dataset Size**     | 547 MB        | 1.2 MB     |
+| **Reduction**        | ---           | **99.7%**  |
+| **Rows**             | ~50,000       | Optimized  |
+| **Performance**      | Slow / Laggy  | BI-Ready   |
+| **GitHub Compatible**| ❌ No         | ✅ Yes     |
 
 ------------------------------------------------------------------------
 
@@ -35,20 +35,20 @@ interactive dashboard.
 
 ### 🔎 Challenge
 
--   Raw dataset exceeded GitHub limits
--   Heavy text columns inflated memory usage
--   Duplicate records
--   Missing values
--   Inconsistent formatting
+-Raw dataset exceeded GitHub limits
+-Heavy text columns inflated memory usage
+-Duplicate records
+-Missing values
+-Inconsistent formatting
 
 ### ⚙️ Actions Taken
 
--   Removed duplicates
--   Cleaned and standardized null values
--   Optimized data types
--   Dropped unnecessary columns
--   Reduced memory footprint dramatically
--   Structured data for BI performance
+-Removed duplicates
+-Cleaned and standardized null values
+-Optimized data types
+-Dropped unnecessary columns
+-Reduced memory footprint dramatically
+-Structured data for BI performance
 
 ### 🎯 Result
 
@@ -59,17 +59,17 @@ Business decision-making - Restaurant market strategy insights
 
 ## 📈 Business Questions Answered
 
--   What cuisines perform best in Bangalore?
--   Which locations have the highest rating density?
--   How do pricing categories affect ratings?
--   What factors correlate with restaurant success?
+-What cuisines perform best in Bangalore?
+-Which locations have the highest rating density?
+-How do pricing categories affect ratings?
+-What factors correlate with restaurant success?
 
 ------------------------------------------------------------------------
 
 ## 📂 Repository Structure
 
     ├── data/
-    │   ├── raw/            # (Local Only) Original 547MB CSV
+    │   ├── raw/            # Original 547MB CSV zip
     │   └── processed/      # Cleaned 1.2MB CSV used for analysis
     ├── notebooks/
     │   └── cleaning.py     # Python data transformation pipeline
@@ -83,7 +83,7 @@ Business decision-making - Restaurant market strategy insights
 
 ### 1️⃣ Download Data
 
-Download the raw Zomato Bangalore dataset from Kaggle.
+Download the raw Zomato Bangalore dataset from Kaggle or zip file.
 
 ### 2️⃣ Run Cleaning Script
 
@@ -105,24 +105,24 @@ Using Power BI Desktop.
 
 ## 🧠 Skills Demonstrated
 
--   Data Cleaning & Wrangling
--   Exploratory Data Analysis (EDA)
--   Data Optimization Techniques
--   Business Insight Extraction
--   Dashboard Development
--   Real-world Dataset Handling
--   Performance Improvement Engineering
+- Data Cleaning & Wrangling
+- Exploratory Data Analysis (EDA)
+- Data Optimization Techniques
+- Business Insight Extraction
+- Dashboard Development
+- Real-world Dataset Handling
+- Performance Improvement Engineering
 
 ------------------------------------------------------------------------
 
 ## 💻 Tech Stack
 
--   Python
--   Pandas
--   NumPy
--   Power BI
--   Data Modeling
--   Data Visualization
+- Python
+- Pandas
+- NumPy
+- Power BI
+- Data Modeling
+- Data Visualization
 
 ------------------------------------------------------------------------
 
@@ -139,6 +139,4 @@ This project demonstrates real-world Data Analyst capabilities:
 
 ## 👤 Author
 
-Data Analyst Portfolio Project\
-Focused on business insight generation and performance-driven data
-engineering.
+Bholme Thet Pai - Data Analyst
